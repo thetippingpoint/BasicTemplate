@@ -1,6 +1,6 @@
 ---
-title: Indivisible City
-timezone: UTC
+title: Progressive Coalition for NJ-2
+timezone: Atlantic/South_Georgia
 collections:
   posts:
     title: Posts
@@ -57,15 +57,15 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
+subtitle: We are committed to the election of a progressive Democrat to represent
+  the citizens of New Jersey's 2nd congressional district.
 email: 
 baseurl: 
 url: 
 twitter_username: 
 facebook_username: 
 background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+member-count: 100
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
