@@ -57,8 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are committed to the election of a progressive Democrat to represent
-  the citizens of New Jersey's 2nd congressional district.
+subtitle: 
 email: 
 baseurl: 
 url: 
