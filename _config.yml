@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Advocating for the Citizens of NJ's 2nd Congressional District
+subtitle: 
 email: 
 baseurl: 
 url: 
@@ -65,7 +65,7 @@ twitter_username:
 facebook_username: 
 background-image: "/uploads/ACA%20dem.jpg"
 member-count: 100
-footer-title: Spread the word. Help build a movement.
+footer-title: Advocating for the Citizens of NJ's 2nd Congressional District
 markdown: kramdown
 gems:
 - jekyll-feed
